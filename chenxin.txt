@@ -1,4 +1,0 @@
-public class Chenxin{
-       public int age;
-}
-
